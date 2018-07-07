@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="button">Register</string>
+    <string name="get_the_location">GET THE LOCATION</string>
+    <string name="user_name">UserName</string>
+    <string name="password">Password</string>
+
+</resources>
